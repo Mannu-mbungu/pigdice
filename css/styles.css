@@ -4,6 +4,11 @@
   margin: 0;
   height: 163px;
 }
+#title {
+  font-size: 100px;
+  font-family: 'Diplomata SC', cursive;
+
+}
 #main {
   text-align: center;
 }
@@ -12,10 +17,10 @@
   padding-top: 10em;
 }
 body {
-  background-color: blue;
+  background-color: grey;
 }
 .jumbotron {
-  background-color: red;
+  background-color: orange;
 }
 .wrapper {
   width: 550px;
